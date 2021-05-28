@@ -11,7 +11,7 @@ from PySide2.QtGui import QPixmap, QImage
 from numpy import ndarray
 import PySide2
 
-HOST = "http://124.71.70.114:60000"
+HOST = ""
 REST = [
     "/infer/images",
     "/infer/video",
